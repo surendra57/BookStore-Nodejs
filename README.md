@@ -12,7 +12,7 @@ details (title, author, genre, etc.).
 the updated book details.
 5. DELETE/api/v1/books/:id - Deletes a specific book by its ID.
 
-#Authentication Api 
+# Authentication Api endpoints
 1. /api/v1/login
 2. /api/v1/logout
 3. /api/v1/register
