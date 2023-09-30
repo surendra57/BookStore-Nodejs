@@ -4,7 +4,7 @@ This is a RESTful API built with Node.js and Express.js for managing a a collect
 Start the server : npm run dev
 
 # BookStore-Api endpoints
-1.GET /api/v1/books - Retrieves a list of all books.
+1. GET /api/v1/books - Retrieves a list of all books.
 2. GET/api/v1/books/:id - Retrieves a specific book by its ID.
 3. POST/api/v1/books - Creates a new book. The request body should contain the book
 details (title, author, genre, etc.).
@@ -15,3 +15,4 @@ the updated book details.
 #Authentication Api 
 1. /api/v1/login
 2. /api/v1/logout
+3. /api/v1/register
